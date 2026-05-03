@@ -1,6 +1,7 @@
 # primer-juego
-quiero descrivir el primer juego que quisiera crear.
-el primer juego que desarrollaria seria en aventura 2D, de pelea y estilo metroidvania.
-Porque este estilo? por que ya tengo algo avanzado en un cuaderno, que son unos vocetos de personajes en pixel art.
-Aunque tambien, si practico y pulo el diseño de mis dibujos de stickman, tambien crearia uno de ese estilo.
-Ahi tendria que ver en el momento cual es mas facil para empezar.
+Quiero describir el primer juego que quisiera crear.
+El primer juego que desarrollaría seria en aventura 2D, de pelea y estilo metroidvania.
+¿Por qué este estilo? Porque ya tengo algo avanzado en un cuaderno, que son unos bocetos de personajes en píxel art.
+Aunque también, si practico y pulo el diseño de mis dibujos de stickman, también crearía uno de ese estilo.
+Ahí tendría que ver en el momento cual es más fácil para empezar.
+
